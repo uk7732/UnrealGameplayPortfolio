@@ -6,7 +6,8 @@ Build/
 .vs/
 *.sln
 
-Content/
+Content/*
+
 !Content/Behavior/
 !Content/Blueprint/
 !Content/Blueprints/
